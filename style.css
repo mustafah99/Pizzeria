@@ -164,7 +164,7 @@ body {
     }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 828px) {
     #flexbox p {
         position: absolute;
         font-size: 50px;
